@@ -25,11 +25,9 @@ The project follows a hierarchical structure where `BaseStringList` serves as th
 ```
 string-list/
     ├── src/
-    │   └── cs1302/
-    │       └── p2/
-    │           ├── BaseStringList.java
-    │           ├── ArrayStringList.java
-    │           └── LinkedStringList.java
-    ├── cs1302-str-list.jar\
-    └── README.md\
+    │   ├── BaseStringList.java
+    │   ├── ArrayStringList.java
+    │   └── LinkedStringList.java
+    ├── string-list.jar
+    └── README.md
 ```
