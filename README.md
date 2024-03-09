@@ -29,5 +29,6 @@ string-list/
     │   ├── ArrayStringList.java
     │   └── LinkedStringList.java
     ├── string-list.jar
+    ├── compile.sh
     └── README.md
 ```
